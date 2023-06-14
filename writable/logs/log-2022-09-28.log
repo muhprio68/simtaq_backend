@@ -1,0 +1,792 @@
+CRITICAL - 2022-09-28 00:10:05 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Kegiatan.php(48): CodeIgniter\Model->insert([])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:10:14 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Kegiatan.php(48): CodeIgniter\Model->insert([])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:10:50 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Kegiatan.php(48): CodeIgniter\Model->insert([])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:10:55 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Kegiatan.php(48): CodeIgniter\Model->insert([])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:11:07 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Kegiatan.php(48): CodeIgniter\Model->insert([])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:11:17 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Kegiatan.php(48): CodeIgniter\Model->insert([])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:19:39 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Kegiatan.php(48): CodeIgniter\Model->insert([])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:31:32 --> Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is not a number"]}
+in VENDORPATH\midtrans\midtrans-php\Midtrans\ApiRequestor.php on line 167.
+ 1 VENDORPATH\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.sandbox.midtrans.com/snap/v1/transactions', 'SB-Mid-server-Us4qHUjYvUBZPQKrSrSJr37y', [...], 'POST')
+ 2 VENDORPATH\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.sandbox.midtrans.com/snap/v1/transactions', 'SB-Mid-server-Us4qHUjYvUBZPQKrSrSJr37y', [...])
+ 3 VENDORPATH\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction([...])
+ 4 APPPATH\Controllers\Payment.php(28): Midtrans\Snap::getSnapToken([...])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:32:18 --> Undefined offset: 0
+in APPPATH\Controllers\Payment.php on line 22.
+ 1 APPPATH\Controllers\Payment.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'APPPATH\\Controllers\\Payment.php', 22, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:32:57 --> Undefined variable: params
+in APPPATH\Controllers\Payment.php on line 28.
+ 1 APPPATH\Controllers\Payment.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: params', 'APPPATH\\Controllers\\Payment.php', 28, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:34:36 --> Undefined offset: 0
+in APPPATH\Controllers\Payment.php on line 44.
+ 1 APPPATH\Controllers\Payment.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'APPPATH\\Controllers\\Payment.php', 44, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:35:03 --> Undefined offset: 0
+in APPPATH\Controllers\Payment.php on line 44.
+ 1 APPPATH\Controllers\Payment.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'APPPATH\\Controllers\\Payment.php', 44, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:39:39 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\Payment.php on line 49.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:43:40 --> Midtrans API is returning API error. HTTP status code: 400 API response: {"error_messages":["transaction_details.gross_amount is required","transaction_details.gross_amount is not a number","transaction_details.order_id is required"]}
+in VENDORPATH\midtrans\midtrans-php\Midtrans\ApiRequestor.php on line 167.
+ 1 VENDORPATH\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://app.sandbox.midtrans.com/snap/v1/transactions', 'SB-Mid-server-Us4qHUjYvUBZPQKrSrSJr37y', [...], 'POST')
+ 2 VENDORPATH\midtrans\midtrans-php\Midtrans\Snap.php(109): Midtrans\ApiRequestor::post('https://app.sandbox.midtrans.com/snap/v1/transactions', 'SB-Mid-server-Us4qHUjYvUBZPQKrSrSJr37y', [...])
+ 3 VENDORPATH\midtrans\midtrans-php\Midtrans\Snap.php(36): Midtrans\Snap::createTransaction([...])
+ 4 APPPATH\Controllers\Payment.php(28): Midtrans\Snap::getSnapToken([...])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:47:15 --> Undefined property: stdClass::$order_by
+in APPPATH\Controllers\Payment.php on line 23.
+ 1 APPPATH\Controllers\Payment.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$order_by', 'APPPATH\\Controllers\\Payment.php', 23, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:52:50 --> Undefined property: stdClass::$order_by
+in APPPATH\Controllers\Payment.php on line 23.
+ 1 APPPATH\Controllers\Payment.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$order_by', 'APPPATH\\Controllers\\Payment.php', 23, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:53:56 --> Undefined property: stdClass::$order_by
+in APPPATH\Controllers\Payment.php on line 23.
+ 1 APPPATH\Controllers\Payment.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$order_by', 'APPPATH\\Controllers\\Payment.php', 23, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:56:03 --> Trying to get property 'order_by' of non-object
+in APPPATH\Controllers\Payment.php on line 22.
+ 1 APPPATH\Controllers\Payment.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'order_by\' of non-object', 'APPPATH\\Controllers\\Payment.php', 22, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:57:00 --> Undefined property: stdClass::$order_id
+in APPPATH\Controllers\Payment.php on line 23.
+ 1 APPPATH\Controllers\Payment.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$order_id', 'APPPATH\\Controllers\\Payment.php', 23, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 00:57:12 --> Undefined property: stdClass::$order_id
+in APPPATH\Controllers\Payment.php on line 21.
+ 1 APPPATH\Controllers\Payment.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$order_id', 'APPPATH\\Controllers\\Payment.php', 21, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 01:02:38 --> Undefined index: transaction_detail
+in APPPATH\Controllers\Payment.php on line 20.
+ 1 APPPATH\Controllers\Payment.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: transaction_detail', 'APPPATH\\Controllers\\Payment.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 01:03:14 --> Undefined index: transactions_detail
+in APPPATH\Controllers\Payment.php on line 20.
+ 1 APPPATH\Controllers\Payment.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: transactions_detail', 'APPPATH\\Controllers\\Payment.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 01:03:29 --> Undefined index: order_by
+in APPPATH\Controllers\Payment.php on line 24.
+ 1 APPPATH\Controllers\Payment.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: order_by', 'APPPATH\\Controllers\\Payment.php', 24, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 08:52:54 --> Call to undefined function App\Controllers\createNomor()
+in APPPATH\Controllers\Kegiatan.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 08:53:39 --> Call to undefined function App\Controllers\createNomor()
+in APPPATH\Controllers\Kegiatan.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 08:54:31 --> Call to undefined function App\Controllers\createNomor()
+in APPPATH\Controllers\Kegiatan.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:13:46 --> Object of class App\Models\KegiatanModel could not be converted to string
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:15:26 --> Undefined property: App\Controllers\Kegiatan::$KegiatanModel
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 APPPATH\Controllers\Kegiatan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Kegiatan::$KegiatanModel', 'APPPATH\\Controllers\\Kegiatan.php', 38, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:23:02 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 1577.
+ 1 SYSTEMPATH\BaseModel.php(1577): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(null, 'insert')
+ 3 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert(null, true)
+ 4 APPPATH\Controllers\Kegiatan.php(52): CodeIgniter\Model->insert(null)
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:26:02 --> Undefined index: no_kegiatan
+in APPPATH\Controllers\Kegiatan.php on line 85.
+ 1 APPPATH\Controllers\Kegiatan.php(85): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: no_kegiatan', 'APPPATH\\Controllers\\Kegiatan.php', 85, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->update('11')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:31:47 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$jml_baris
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Models\KegiatanModel.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$jml_baris', 'APPPATH\\Models\\KegiatanModel.php', 13, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:36:36 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::row()
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:38:48 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:41:02 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:41:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:45:05 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:50:30 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getNumRows
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Models\KegiatanModel.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getNumRows', 'APPPATH\\Models\\KegiatanModel.php', 13, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:51:24 --> Cannot access protected property CodeIgniter\Database\MySQLi\Result::$numRows
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 09:52:06 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getFieldCount
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Models\KegiatanModel.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getFieldCount', 'APPPATH\\Models\\KegiatanModel.php', 13, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:00:08 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResult()
+in APPPATH\Models\KegiatanModel.php on line 13.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:02:37 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResult()
+in APPPATH\Models\KegiatanModel.php on line 16.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:05:05 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResult()
+in APPPATH\Models\KegiatanModel.php on line 16.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:05:20 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to number
+in APPPATH\Models\KegiatanModel.php on line 24.
+ 1 APPPATH\Models\KegiatanModel.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class CodeIgniter\\Database\\MySQLi\\Result could not be converted to number', 'APPPATH\\Models\\KegiatanModel.php', 24, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:05:58 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getFieldCount
+in APPPATH\Models\KegiatanModel.php on line 16.
+ 1 APPPATH\Models\KegiatanModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getFieldCount', 'APPPATH\\Models\\KegiatanModel.php', 16, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:07:39 --> A non-numeric value encountered
+in APPPATH\Models\KegiatanModel.php on line 24.
+ 1 APPPATH\Models\KegiatanModel.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric value encountered', 'APPPATH\\Models\\KegiatanModel.php', 24, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:08:50 --> A non-numeric value encountered
+in APPPATH\Models\KegiatanModel.php on line 24.
+ 1 APPPATH\Models\KegiatanModel.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric value encountered', 'APPPATH\\Models\\KegiatanModel.php', 24, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:12:46 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+in APPPATH\Models\KegiatanModel.php on line 14.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:16:06 --> Access level to App\Models\KegiatanModel::$db must be protected (as in class CodeIgniter\Model) or weaker
+in APPPATH\Models\KegiatanModel.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-28 10:17:24 --> Access level to App\Models\KegiatanModel::$db must be protected (as in class CodeIgniter\Model) or weaker
+in APPPATH\Models\KegiatanModel.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-28 10:18:05 --> Access level to App\Models\KegiatanModel::$db must be protected (as in class CodeIgniter\Model) or weaker
+in APPPATH\Models\KegiatanModel.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-28 10:21:26 --> Call to undefined function App\Controllers\createNomor()
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:21:54 --> Call to undefined function App\Controllers\createNomor()
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:23:04 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::num_rows()
+in APPPATH\Models\KegiatanModel.php on line 15.
+ 1 APPPATH\Controllers\Kegiatan.php(38): App\Models\KegiatanModel->createNomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:29:53 --> Call to a member function num_rows() on array
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:31:00 --> Call to a member function num_rows() on array
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:32:43 --> Call to a member function result() on array
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:33:08 --> Call to a member function get() on array
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:35:23 --> Call to a member function num_rows() on int
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:38:58 --> Use of undefined constant CURDATE - assumed 'CURDATE' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 APPPATH\Controllers\Kegiatan.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant CURDATE - assumed \'CURDATE\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\Kegiatan.php', 37, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:39:18 --> Call to undefined function App\Controllers\CURDATE()
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:41:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:41:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:42:52 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:44:25 --> Call to a member function num_rows() on array
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:45:00 --> Call to a member function countAllResult() on array
+in APPPATH\Controllers\Kegiatan.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:46:20 --> Call to undefined method App\Models\KegiatanModel::getCount
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\Kegiatan.php(37): CodeIgniter\Model->__call('getCount', [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:47:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::counAll()
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:51:20 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+in APPPATH\Controllers\Kegiatan.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:55:20 --> Call to a member function getWhere() on array
+in APPPATH\Controllers\Kegiatan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 10:56:19 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+in APPPATH\Controllers\Kegiatan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:03:06 --> Call to undefined method App\Models\KegiatanModel::getNumRows
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\Kegiatan.php(39): CodeIgniter\Model->__call('getNumRows', [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:03:35 --> Call to undefined method App\Models\KegiatanModel::getAllResult
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\Kegiatan.php(38): CodeIgniter\Model->__call('getAllResult', [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:03:46 --> Call to undefined method App\Models\KegiatanModel::getResult
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\Kegiatan.php(38): CodeIgniter\Model->__call('getResult', [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:14:02 --> Call to undefined method App\Models\KegiatanModel::create_nomor
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\Kegiatan.php(37): CodeIgniter\Model->__call('create_nomor', [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 11:15:55 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE kegiatan.crate_at=CURDATE()' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 11:15:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE kegiatan.crate_at=CURDATE()' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.crate_at=CURDATE()', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.crate_at=CURDATE()')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.crate_at=CURDATE()')
+ 4 APPPATH\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.crate_at=CURDATE()')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 11:16:23 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE kegiatan.create_at=CURDATE()' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 11:16:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE kegiatan.create_at=CURDATE()' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=CURDATE()', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=CURDATE()')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=CURDATE()')
+ 4 APPPATH\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=CURDATE()')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 11:21:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE kegiatan.create_at='2022-09-28'' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 11:21:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE kegiatan.create_at='2022-09-28'' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=\'2022-09-28\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=\'2022-09-28\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=\'2022-09-28\'')
+ 4 APPPATH\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE kegiatan.create_at=\'2022-09-28\'')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 11:22:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE create_at='2022-09-28'' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 11:22:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM kegiatan WHERE create_at='2022-09-28'' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE create_at=\'2022-09-28\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE create_at=\'2022-09-28\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE create_at=\'2022-09-28\'')
+ 4 APPPATH\Models\KegiatanModel.php(12): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) FROM KEGIATAN AS kd_max FROM kegiatan WHERE create_at=\'2022-09-28\'')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:23:47 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+in APPPATH\Models\KegiatanModel.php on line 14.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:26:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+in APPPATH\Models\KegiatanModel.php on line 15.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:28:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+in APPPATH\Models\KegiatanModel.php on line 14.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:28:13 --> Trying to get property 'kd_max' of non-object
+in APPPATH\Models\KegiatanModel.php on line 15.
+ 1 APPPATH\Models\KegiatanModel.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'kd_max\' of non-object', 'APPPATH\\Models\\KegiatanModel.php', 15, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:30:10 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$kd_max
+in APPPATH\Models\KegiatanModel.php on line 14.
+ 1 APPPATH\Models\KegiatanModel.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$kd_max', 'APPPATH\\Models\\KegiatanModel.php', 14, [...])
+ 2 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:31:52 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getAllResult()
+in APPPATH\Models\KegiatanModel.php on line 14.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:35:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+in APPPATH\Models\KegiatanModel.php on line 14.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 11:35:29 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+in APPPATH\Models\KegiatanModel.php on line 15.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->get_nomor()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 21:28:19 --> Call to undefined function App\Models\CURDATE()
+in APPPATH\Models\KegiatanModel.php on line 14.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 21:28:59 --> Call to a member function getNumRows() on array
+in APPPATH\Models\KegiatanModel.php on line 17.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 21:30:35 --> Call to a member function getNumRows() on array
+in APPPATH\Models\KegiatanModel.php on line 17.
+ 1 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-28 21:32:18 --> Call to undefined method App\Models\KegiatanModel::respond
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Models\KegiatanModel.php(17): CodeIgniter\Model->__call('respond', [...])
+ 2 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 21:38:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''tgl_kegiatan', 'no_terakhir') VALUES (CURDATE(), '1')' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO nom...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO nom...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO nom...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(24): CodeIgniter\Database\BaseConnection->query('INSERT INTO nom...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 21:38:14 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''tgl_kegiatan', 'no_terakhir') VALUES (CURDATE(), '1')' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (CURDATE(), \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (CURDATE(), \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (CURDATE(), \'1\')')
+ 4 APPPATH\Models\KegiatanModel.php(24): CodeIgniter\Database\BaseConnection->query('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (CURDATE(), \'1\')')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 21:39:28 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''tgl_kegiatan', 'no_terakhir') VALUES ('2022-09-28', '1')' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO nom...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO nom...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO nom...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(24): CodeIgniter\Database\BaseConnection->query('INSERT INTO nom...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 21:39:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''tgl_kegiatan', 'no_terakhir') VALUES ('2022-09-28', '1')' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (\'2022-09-28\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (\'2022-09-28\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (\'2022-09-28\', \'1\')')
+ 4 APPPATH\Models\KegiatanModel.php(24): CodeIgniter\Database\BaseConnection->query('INSERT INTO nomorkegiatan (\'tgl_kegiatan\', \'no_terakhir\') VALUES (\'2022-09-28\', \'1\')')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 21:39:53 --> mysqli_sql_exception: Duplicate entry '2022-09-28' for key 'PRIMARY' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO nom...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO nom...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO nom...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(24): CodeIgniter\Database\BaseConnection->query('INSERT INTO nom...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 21:39:53 --> Duplicate entry '2022-09-28' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO nomorkegiatan (tgl_kegiatan, no_terakhir) VALUES (\'2022-09-28\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO nomorkegiatan (tgl_kegiatan, no_terakhir) VALUES (\'2022-09-28\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO nomorkegiatan (tgl_kegiatan, no_terakhir) VALUES (\'2022-09-28\', \'1\')')
+ 4 APPPATH\Models\KegiatanModel.php(24): CodeIgniter\Database\BaseConnection->query('INSERT INTO nomorkegiatan (tgl_kegiatan, no_terakhir) VALUES (\'2022-09-28\', \'1\')')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-28 21:42:53 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.'tgl_kegiatan' = CURDATE()' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE nomorkeg...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE nomorkeg...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE nomorkeg...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\KegiatanModel.php(21): CodeIgniter\Database\BaseConnection->query('UPDATE nomorkeg...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-28 21:42:53 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.'tgl_kegiatan' = CURDATE()' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE nomorkegiatan SET no_terakhir = 2 WHERE \'nomorkegiatan\'.\'tgl_kegiatan\' = CURDATE()', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE nomorkegiatan SET no_terakhir = 2 WHERE \'nomorkegiatan\'.\'tgl_kegiatan\' = CURDATE()')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE nomorkegiatan SET no_terakhir = 2 WHERE \'nomorkegiatan\'.\'tgl_kegiatan\' = CURDATE()')
+ 4 APPPATH\Models\KegiatanModel.php(21): CodeIgniter\Database\BaseConnection->query('UPDATE nomorkegiatan SET no_terakhir = 2 WHERE \'nomorkegiatan\'.\'tgl_kegiatan\' = CURDATE()')
+ 5 APPPATH\Controllers\Kegiatan.php(39): App\Models\KegiatanModel->getNomorKegiatan()
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

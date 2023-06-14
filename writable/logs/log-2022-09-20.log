@@ -1,0 +1,21 @@
+CRITICAL - 2022-09-20 07:44:44 --> Illegal offset type
+in APPPATH\Controllers\Keuangan.php on line 21.
+ 1 APPPATH\Controllers\Keuangan.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal offset type', 'APPPATH\\Controllers\\Keuangan.php', 21, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Keuangan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-20 07:45:28 --> Illegal offset type
+in APPPATH\Controllers\Keuangan.php on line 21.
+ 1 APPPATH\Controllers\Keuangan.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal offset type', 'APPPATH\\Controllers\\Keuangan.php', 21, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Keuangan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-20 07:59:47 --> Illegal offset type
+in APPPATH\Controllers\Keuangan.php on line 18.
+ 1 APPPATH\Controllers\Keuangan.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal offset type', 'APPPATH\\Controllers\\Keuangan.php', 18, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Keuangan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

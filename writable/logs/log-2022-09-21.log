@@ -1,0 +1,46 @@
+CRITICAL - 2022-09-21 11:22:38 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 718.
+ 1 SYSTEMPATH\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(667): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\Kegiatan.php(45): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->create()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-21 11:56:54 --> Undefined index: nama_kegiatan
+in APPPATH\Controllers\Kegiatan.php on line 75.
+ 1 APPPATH\Controllers\Kegiatan.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: nama_kegiatan', 'APPPATH\\Controllers\\Kegiatan.php', 75, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Kegiatan->update('1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kegiatan))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-21 11:57:55 --> Class 'App\Controllers\KeuanganModel' not found
+in APPPATH\Controllers\Saldo.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Saldo->update('1')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Saldo))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-21 12:00:05 --> Class 'App\Controllers\KeuanganModel' not found
+in APPPATH\Controllers\Saldo.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Saldo->update('1')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Saldo))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-21 12:01:20 --> Class 'App\Controllers\KeuanganModel' not found
+in APPPATH\Controllers\Saldo.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Saldo->update('1')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Saldo))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-21 12:03:58 --> Class 'App\Controllers\KeuanganModel' not found
+in APPPATH\Controllers\Saldo.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Saldo->update('1')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Saldo))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-21 12:07:05 --> Class 'App\Controllers\KeuanganModel' not found
+in APPPATH\Controllers\Saldo.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Saldo->update('1')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Saldo))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

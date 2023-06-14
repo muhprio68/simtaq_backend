@@ -1,0 +1,22 @@
+CRITICAL - 2023-06-14 00:14:37 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\Notifikasi.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Notifikasi->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notifikasi))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-14 01:15:37 --> mysqli_sql_exception: Duplicate entry 'Keu-Random' for key 'no_keuangan' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ke...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ke...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ke...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ke...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\restfulapi\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\restfulapi\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\restfulapi\app\Controllers\Notifikasi.php(97): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\restfulapi\app\Controllers\Notifikasi.php(36): App\Controllers\Notifikasi->createKeuangan('KEU-2306140017', 36000)
+#9 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Notifikasi->index()
+#10 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notifikasi))
+#11 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}

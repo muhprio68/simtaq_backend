@@ -1,0 +1,210 @@
+CRITICAL - 2022-09-29 00:19:29 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:20:32 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:20:39 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:23:21 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->show('2022-09-29')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:24:48 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->show('2022-09-29')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:24:50 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->show('2022-09-29')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:26:31 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->show('2022-09-29')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:26:36 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:27:46 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:29:27 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:29:29 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:29:30 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:30:26 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:25 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:26 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:27 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:28 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:40 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:41 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:42 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:31:42 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:33:23 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:34:29 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:40:04 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:40:09 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:40:10 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:40:10 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:40:11 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:40:11 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:42:39 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:42:40 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:42:41 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:43:08 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:43:10 --> Class 'App\Models\NomorKeuanganModel' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-29 00:44:12 --> Class 'App\Models\NomorKeuanganModell' not found
+in APPPATH\Controllers\NomorKeuangan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\NomorKeuangan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NomorKeuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

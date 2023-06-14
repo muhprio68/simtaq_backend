@@ -1,0 +1,148 @@
+CRITICAL - 2022-09-26 11:19:46 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:21:27 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:26:20 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:27:26 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:31:00 --> syntax error, unexpected '=', expecting ']'
+in APPPATH\Controllers\Payment.php on line 24.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Payment.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Payment')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Payment')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Payment')
+ 5 SYSTEMPATH\CodeIgniter.php(857): class_exists('\\App\\Controllers\\Payment', true)
+ 6 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:31:51 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:34:04 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:34:16 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:41:42 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 11:47:28 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 12:09:08 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 12:15:18 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 12:15:36 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 12:22:04 --> Type of Config\View::$decorators must be array (as in class CodeIgniter\Config\View)
+in APPPATH\Config\View.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-26 12:23:43 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 12:24:54 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-26 12:28:39 --> Invalid file: payment/pay.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment/pay.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('payment/pay', [], true)
+ 3 APPPATH\Controllers\Payment.php(27): view('payment/pay', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Payment->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

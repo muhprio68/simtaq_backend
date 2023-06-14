@@ -1,0 +1,9 @@
+CRITICAL - 2022-10-01 23:41:08 --> Midtrans API is returning API error. HTTP status code: 400 API response: {"status_code":"400","status_message":"One or more parameters in the payload is invalid.","validation_messages":["credit_card is required"],"id":"00f1d767-df4d-4724-9371-6d984d67a43b"}
+in VENDORPATH\midtrans\midtrans-php\Midtrans\ApiRequestor.php on line 167.
+ 1 VENDORPATH\midtrans\midtrans-php\Midtrans\ApiRequestor.php(39): Midtrans\ApiRequestor::remoteCall('https://api.sandbox.midtrans.com/v2/charge', 'SB-Mid-server-Us4qHUjYvUBZPQKrSrSJr37y', [...], 'POST')
+ 2 VENDORPATH\midtrans\midtrans-php\Midtrans\CoreApi.php(40): Midtrans\ApiRequestor::post('https://api.sandbox.midtrans.com/v2/charge', 'SB-Mid-server-Us4qHUjYvUBZPQKrSrSJr37y', [...])
+ 3 APPPATH\Controllers\Charge.php(30): Midtrans\CoreApi::charge([...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Charge->create()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Charge))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

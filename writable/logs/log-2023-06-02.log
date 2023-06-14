@@ -1,0 +1,94 @@
+ERROR - 2023-06-02 05:02:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':0:' at line 3 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\system\Model.php(772): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 C:\xampp\htdocs\restfulapi\app\Controllers\Keuangan.php(74): CodeIgniter\Model->__call('getWhere', Array)
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Keuangan->create()
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+#8 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-06-02 05:02:48 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':0:' at line 3 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\system\Model.php(772): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 C:\xampp\htdocs\restfulapi\app\Controllers\Keuangan.php(74): CodeIgniter\Model->__call('getWhere', Array)
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Keuangan->create()
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+#8 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-06-02 05:03:03 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':0:' at line 3 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\system\Model.php(772): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 C:\xampp\htdocs\restfulapi\app\Controllers\Keuangan.php(74): CodeIgniter\Model->__call('getWhere', Array)
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Keuangan->create()
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+#8 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-06-02 05:04:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':0:' at line 3 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\system\Model.php(772): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 C:\xampp\htdocs\restfulapi\app\Controllers\Keuangan.php(74): CodeIgniter\Model->__call('getWhere', Array)
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Keuangan->create()
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+#8 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-06-02 17:32:09 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `saldo` ...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `saldo` ...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `saldo` ...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query('UPDATE `saldo` ...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\app\Models\SaldoModel.php(16): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\restfulapi\app\Controllers\Keuangan.php(97): App\Models\SaldoModel->updateSaldo(Array)
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Keuangan->create()
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+#8 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-06-02 17:32:52 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `saldo` ...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `saldo` ...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `saldo` ...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query('UPDATE `saldo` ...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\app\Models\SaldoModel.php(16): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\restfulapi\app\Controllers\Keuangan.php(97): App\Models\SaldoModel->updateSaldo(Array)
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Keuangan->create()
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+#8 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-06-02 17:55:47 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `saldo` ...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `saldo` ...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `saldo` ...')
+#3 C:\xampp\htdocs\restfulapi\system\Database\BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query('UPDATE `saldo` ...', Array, false)
+#4 C:\xampp\htdocs\restfulapi\system\Model.php(338): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\restfulapi\system\BaseModel.php(865): CodeIgniter\Model->doUpdate(NULL, Array)
+#6 C:\xampp\htdocs\restfulapi\system\Model.php(693): CodeIgniter\BaseModel->update(NULL, Array)
+#7 C:\xampp\htdocs\restfulapi\app\Models\SaldoModel.php(16): CodeIgniter\Model->update()
+#8 C:\xampp\htdocs\restfulapi\app\Controllers\Keuangan.php(97): App\Models\SaldoModel->updateSaldo(Array)
+#9 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Keuangan->create()
+#10 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Keuangan))
+#11 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}

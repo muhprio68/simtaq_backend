@@ -1,0 +1,168 @@
+ERROR - 2023-06-12 10:26:49 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(112): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW04')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 10:27:00 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(112): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 10:29:07 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(112): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 10:31:21 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(112): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:33:06 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:35:44 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:38:38 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:39:05 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:39:58 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:40:29 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:41:02 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:44:04 --> mysqli_sql_exception: Unknown column 'RT01' in 'where clause' in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:44:42 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/RW03.' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-06-12 22:44:56 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/RW03' at line 1 in C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\restfulapi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * FROM d...', 0)
+#1 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM d...')
+#2 C:\xampp\htdocs\restfulapi\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM d...')
+#3 C:\xampp\htdocs\restfulapi\app\Models\DonaturModel.php(19): CodeIgniter\Database\BaseConnection->query('SELECT * FROM d...')
+#4 C:\xampp\htdocs\restfulapi\app\Controllers\Donatur.php(131): App\Models\DonaturModel->cekData('2023-05-31', 'RT01/RW03')
+#5 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(907): App\Controllers\Donatur->create()
+#6 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Donatur))
+#7 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\restfulapi\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
