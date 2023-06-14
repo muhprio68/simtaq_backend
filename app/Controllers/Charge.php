@@ -18,15 +18,17 @@ class Charge extends ResourceController
 
         $data = json_decode(file_get_contents("php://input"), true);
         $ppp = $data['transaction_details'];
+        $custom1 = $data['custom_field1'];
+        $custom2 = $data['custom_field2'];
+
         $json = $this->request->getJSON();
         $params = [
             'transaction_details' => array(
                 'order_id' => $ppp['order_id'],
                 'gross_amount' => $ppp['gross_amount']
-            ),
-            'custom_field1'=> "data1",
-            'custom_field2'=> "data2",
-            'custom_field3'=> "data3"
+                ),
+            'custom_field1'=> $custom1,
+            'custom_field2'=> $custom2
         ];
 
         $snapToken = \Midtrans\Snap::getSnapToken($params);

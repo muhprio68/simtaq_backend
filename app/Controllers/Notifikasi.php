@@ -5,7 +5,6 @@ use CodeIgniter\API\ResponseTrait;
 use App\Models\KeuanganModel;
 use App\Models\SaldoModel;
 use App\Models\DonaturModel;
-use App\Models\InfakModel;
 use CodeIgniter\I18n\Time;
 use Exception;
 use Firebase\JWT\JWT;
@@ -34,7 +33,7 @@ class Notifikasi extends ResourceController
             $status_code = $result['status_code'];
     
             if ($status_code == 200){
-                return $this->createKeuangan($result['order_id'], round($result['gross_amount']));
+                return $this->createKeuangan($result['order_id'], $result['custom_field1'],round($result['gross_amount']), $result['custom_field2']);
             }
         } catch(\Exception $e){
             return $this->fail('Tidak dapat memasukkan data keuangan');
@@ -74,40 +73,7 @@ class Notifikasi extends ResourceController
         return $this->respond($response);
     }
 
-    public function updateInfak($order_id){
-        $model = new InfakModel();
-                $json = $this->request->getJSON();
-                $ada = $model->getWhere(['no_keuangan' => $order_id])->getResult();
-                $data = json_decode($ada, true);
-                $id = $data['id_infak'];
-                if ($ada){
-                    
-                        $data = [
-                            'tipe_keuangan' => $json->tipe_keuangan,
-                            'tipe_keuangan' => $json->tipe_keuangan,
-                            'keterangan_keuangan' => $json->keterangan_keuangan,
-                            'status_keuangan' => $json->status_keuangan,
-                            'nominal_keuangan' => $json->nominal_keuangan,
-                            'deskripsi_keuangan' => $json->deskripsi_keuangan
-                        ];
-                    
-                    // Insert to Database
-                    $model->update($id, $data);
-                    $this->updateSaldo($data['tipe_keuangan'], $data['nominal_keuangan']);
-                    $response = [
-                        'status'   => 200,
-                        'error'    => null,
-                        'messages' => [
-                        'success' => 'Data Updated'
-                        ]
-                    ];
-                    return $this->respond($response);
-                } else {
-                    return $this->failNotFound('No Data Found with id '.$id);
-                }
-    }
-
-    public function createKeuangan($order_id, $nominal)
+    public function createKeuangan($order_id, $ket_infak, $nominal, $des_infak)
     {
         try {
             $model = new KeuanganModel();
@@ -117,13 +83,13 @@ class Notifikasi extends ResourceController
                     'no_keuangan' => $order_id,
                     'tipe_keuangan' => "Pemasukan",
                     'tgl_keuangan' => $this->getTime(),
-                    'keterangan_keuangan' => "Infaq bal bala",
+                    'keterangan_keuangan' => "Infak atas nama".$ket_infak,
                     'jenis_keuangan' => "Lain-lain",
                     'status_keuangan' => "Selesai",
                     'nominal_keuangan' => $nominal,
                     'jml_kas_awal' => $this->getSaldo(),
                     'jml_kas_akhir' => $jmlkasakhir,
-                    'deskripsi_keuangan' => "",
+                    'deskripsi_keuangan' => $des_infak,
                     'create_at' => $this->getTime(),
                     'update_at' => $this->getTime()
                 ];
