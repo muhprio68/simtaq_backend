@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/simtaqmy/public_html/
+    - export DEPLOYPATH=/home/simtaqmy/public_html/simtaqapi
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
