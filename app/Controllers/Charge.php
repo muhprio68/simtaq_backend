@@ -18,10 +18,11 @@ class Charge extends ResourceController
 
         $data = json_decode(file_get_contents("php://input"), true);
         $ppp = $data['transaction_details'];
+        
+        //Penambahan custom field untuk mengisi ket_infak dan des_infak
         $custom1 = $data['custom_field1'];
         $custom2 = $data['custom_field2'];
 
-        $json = $this->request->getJSON();
         $params = [
             'transaction_details' => array(
                 'order_id' => $ppp['order_id'],
