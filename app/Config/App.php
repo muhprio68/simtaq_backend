@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://192.168.0.27:8080/';
+    public $baseURL = 'http://simtaq.my.id/';
 
     /**
      * --------------------------------------------------------------------------
